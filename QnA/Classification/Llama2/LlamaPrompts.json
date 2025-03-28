@@ -1,0 +1,11 @@
+{
+    "MARK1" : {
+        "INTRO_BLURB" : "Below is an instruction that describes a task. Write a response that appropriately completes the request.",
+        "INSTRUCTION_BLURB" : "{INSTRUCTION_KEY}\nCategorize the utterance as either R or D. Do not explain."
+    },
+
+    "MARK2" : {
+        "INTRO_BLURB" : "You are an AI model that analyzes text to determine political context.",
+        "INSTRUCTION_BLURB" : "Below is a transcript of a spoken response. Based on the text identify whether the speaker was responding to a question from a Democrat or a Republican. Respond with \"R\" for Republican or \"D\" for Democrat. Do not explain."
+    }
+}
