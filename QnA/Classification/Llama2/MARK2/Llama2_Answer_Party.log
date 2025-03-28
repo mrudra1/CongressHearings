@@ -1,0 +1,108 @@
+
+Beginning verion 1
+========================
+
+Creating new dataset...
+Length of the full dataset = 628917
+Number of prompts in train: 10000
+Column names are: ['Utterance', 'Party', 'conversation_id']
+Number of prompts in test: 617917
+Column names are: ['Utterance', 'Party', 'conversation_id']
+Formatting the datasets sanity check: {'Utterance': '    Mr. Ferguson. That is right.', 'Party': 'R', 'conversation_id': 'CHRG-111hhrg56642_120', 'text': 'You are an AI model that analyzes text to determine political context.\n### Instruction:  Below is a transcript of a spoken response. Based on the text identify whether the speaker was responding to a question from a Democrat or a Republican. Respond with "R" for Republican or "D" for Democrat. Do not explain.\nInput:     Mr. Ferguson. That is right.\n### Response: R\n### End'}
+Preprocessing dataset...
+Preprocessing dataset...
+Preprocessing dataset...
+Preprocessing dataset...
+Preprocessed Train Dataset:
+Dataset({
+    features: ['Party', 'conversation_id', 'input_ids', 'attention_mask'],
+    num_rows: 50
+})
+Preprocessed Train Dataset:
+Dataset({
+    features: ['Party', 'conversation_id', 'input_ids', 'attention_mask'],
+    num_rows: 9942
+})
+Preprocessed Test Dataset:
+Dataset({
+    features: ['Party', 'conversation_id', 'input_ids', 'attention_mask'],
+    num_rows: 613934
+})
+LoRA module names: ['o_proj', 'q_proj', 'v_proj', 'down_proj', 'gate_proj', 'up_proj', 'k_proj']
+All Parameters: 3,540,389,888 || Trainable Parameters: 39,976,960 || Trainable Parameters %: 1.1291682911958425
+Training...
+Beginning verion 1
+========================
+
+Loading dataset...
+Beginning version 1
+========================
+
+Loading dataset...
+Beginning version 1
+========================
+
+Loading dataset...
+Preprocessing dataset...
+Preprocessing dataset...
+Preprocessing dataset...
+Preprocessing dataset...
+Preprocessed Train Dataset:
+Dataset({
+    features: ['Party', 'conversation_id', 'input_ids', 'attention_mask'],
+    num_rows: 50
+})
+Preprocessed Train Dataset:
+Dataset({
+    features: ['Party', 'conversation_id', 'input_ids', 'attention_mask'],
+    num_rows: 9942
+})
+Preprocessed Test Dataset:
+Dataset({
+    features: ['Party', 'conversation_id', 'input_ids', 'attention_mask'],
+    num_rows: 613934
+})
+LoRA module names: ['down_proj', 'v_proj', 'up_proj', 'q_proj', 'o_proj', 'gate_proj', 'k_proj']
+All Parameters: 3,540,389,888 || Trainable Parameters: 39,976,960 || Trainable Parameters %: 1.1291682911958425
+Training...
+Beginning version 1
+========================
+
+Loading dataset...
+Preprocessing dataset...
+Preprocessing dataset...
+Preprocessing dataset...
+Preprocessed Train Dataset:
+Dataset({
+    features: ['Party', 'conversation_id', 'input_ids', 'attention_mask'],
+    num_rows: 50
+})
+Preprocessed Train Dataset:
+Dataset({
+    features: ['Party', 'conversation_id', 'input_ids', 'attention_mask'],
+    num_rows: 9942
+})
+LoRA module names: ['gate_proj', 'up_proj', 'down_proj', 'v_proj', 'k_proj', 'o_proj', 'q_proj']
+All Parameters: 3,540,389,888 || Trainable Parameters: 39,976,960 || Trainable Parameters %: 1.1291682911958425
+Training...
+LoRA module names: ['gate_proj', 'up_proj', 'down_proj', 'v_proj', 'k_proj', 'o_proj', 'q_proj']
+LoRA module names: ['gate_proj', 'up_proj', 'down_proj', 'v_proj', 'k_proj', 'o_proj', 'q_proj']
+Beginning version 1
+========================
+
+Loading dataset...
+Preprocessing dataset...
+Preprocessing dataset...
+Preprocessing dataset...
+Preprocessed Train Dataset:
+Dataset({
+    features: ['Party', 'conversation_id', 'input_ids', 'attention_mask'],
+    num_rows: 50
+})
+Preprocessed Train Dataset:
+Dataset({
+    features: ['Party', 'conversation_id', 'input_ids', 'attention_mask'],
+    num_rows: 9942
+})
+LoRA module names: []
+LoRA module names: []
