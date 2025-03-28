@@ -1,0 +1,443 @@
+{}{
+    "105": [],
+    "106": [],
+    "107": [],
+    "108": [],
+    "109": [],
+    "110": [],
+    "111": [],
+    "112": [],
+    "113": [],
+    "114": [],
+    "115": [],
+    "116": [],
+    "117": []
+}{
+    "105": [
+        "CHRG-105hhrg48615",
+        "CHRG-105hhrg50377",
+        "CHRG-105shrg49521",
+        "CHRG-105shrg53121",
+        "CHRG-105shrg54718"
+    ],
+    "106": [
+        "CHRG-106hhrg56355"
+    ],
+    "107": [
+        "CHRG-107hhrg76594"
+    ],
+    "108": [
+        "CHRG-108hhrg86340",
+        "CHRG-108hhrg87137",
+        "CHRG-108hhrg90627",
+        "CHRG-108hhrg91690",
+        "CHRG-108hhrg92756",
+        "CHRG-108hhrg93214",
+        "CHRG-108hhrg93759",
+        "CHRG-108jhrg88501",
+        "CHRG-108shrg23827",
+        "CHRG-108shrg91745"
+    ],
+    "109": [
+        "CHRG-109hhrg24150",
+        "CHRG-109hhrg24525",
+        "CHRG-109hhrg26675",
+        "CHRG-109hhrg26755",
+        "CHRG-109hhrg27255",
+        "CHRG-109hhrg28124",
+        "CHRG-109hhrg28453",
+        "CHRG-109hhrg28454",
+        "CHRG-109hhrg28455",
+        "CHRG-109hhrg29389",
+        "CHRG-109hhrg29565",
+        "CHRG-109hhrg29726",
+        "CHRG-109hhrg30381",
+        "CHRG-109hhrg30384"
+    ],
+    "110": [
+        "CHRG-110hhrg33804",
+        "CHRG-110hhrg33807",
+        "CHRG-110hhrg34012",
+        "CHRG-110hhrg34826",
+        "CHRG-110hhrg34827",
+        "CHRG-110hhrg34830",
+        "CHRG-110hhrg34831",
+        "CHRG-110hhrg34832",
+        "CHRG-110hhrg34833",
+        "CHRG-110hhrg34834",
+        "CHRG-110hhrg34837",
+        "CHRG-110hhrg34989",
+        "CHRG-110hhrg36102",
+        "CHRG-110hhrg36103",
+        "CHRG-110hhrg36104",
+        "CHRG-110hhrg36105",
+        "CHRG-110hhrg36106",
+        "CHRG-110hhrg36107",
+        "CHRG-110hhrg36110",
+        "CHRG-110hhrg36112",
+        "CHRG-110hhrg36113",
+        "CHRG-110hhrg36131",
+        "CHRG-110hhrg38056",
+        "CHRG-110hhrg38202",
+        "CHRG-110hhrg38203",
+        "CHRG-110hhrg38205",
+        "CHRG-110hhrg38207",
+        "CHRG-110hhrg38208",
+        "CHRG-110hhrg38209",
+        "CHRG-110hhrg39375",
+        "CHRG-110hhrg39376",
+        "CHRG-110hhrg39378",
+        "CHRG-110hhrg39379",
+        "CHRG-110hhrg39380",
+        "CHRG-110hhrg39381",
+        "CHRG-110hhrg39382",
+        "CHRG-110hhrg39391",
+        "CHRG-110hhrg39915",
+        "CHRG-110hhrg40303",
+        "CHRG-110hhrg40859",
+        "CHRG-110hhrg41839",
+        "CHRG-110hhrg41902",
+        "CHRG-110hhrg49369",
+        "CHRG-110shrg39362",
+        "CHRG-110shrg39599",
+        "CHRG-110shrg40283"
+    ],
+    "111": [
+        "CHRG-111hhrg47612",
+        "CHRG-111hhrg47722",
+        "CHRG-111shrg24699",
+        "CHRG-111shrg56914",
+        "CHRG-111shrg58003"
+    ],
+    "112": [
+        "CHRG-112hhrg66924",
+        "CHRG-112hhrg67089",
+        "CHRG-112shrg74295",
+        "CHRG-112shrg75092",
+        "CHRG-112shrg75828",
+        "CHRG-112shrg77458",
+        "CHRG-112shrg78095",
+        "CHRG-112shrg78677"
+    ],
+    "113": [
+        "CHRG-113shrg98185"
+    ],
+    "114": [
+        "CHRG-114hhrg20796",
+        "CHRG-114hhrg21366",
+        "CHRG-114hhrg94940",
+        "CHRG-114hhrg95314",
+        "CHRG-114hhrg97194",
+        "CHRG-114hhrg98888",
+        "CHRG-114shrg22170",
+        "CHRG-114shrg22579",
+        "CHRG-114shrg99832"
+    ],
+    "115": [
+        "CHRG-115hhrg32368",
+        "CHRG-115shrg26520",
+        "CHRG-115shrg27425",
+        "CHRG-115shrg28283",
+        "CHRG-115shrg32378",
+        "CHRG-115shrg32517"
+    ],
+    "116": [
+        "CHRG-116hhrg37450",
+        "CHRG-116shrg42119"
+    ],
+    "117": [
+        "CHRG-117shrg46519"
+    ]
+}{
+    "105": [
+        "CHRG-105hhrg48615",
+        "CHRG-105hhrg50377"
+    ],
+    "106": [
+        "CHRG-106hhrg56355"
+    ],
+    "107": [],
+    "108": [
+        "CHRG-108hhrg86340",
+        "CHRG-108hhrg87137",
+        "CHRG-108hhrg90627",
+        "CHRG-108hhrg91690",
+        "CHRG-108hhrg92756",
+        "CHRG-108hhrg93214",
+        "CHRG-108hhrg93759",
+        "CHRG-108jhrg88501",
+        "CHRG-108shrg23827",
+        "CHRG-108shrg91745"
+    ],
+    "109": [
+        "CHRG-109hhrg24150",
+        "CHRG-109hhrg24525",
+        "CHRG-109hhrg27255"
+    ],
+    "110": [
+        "CHRG-110hhrg34012",
+        "CHRG-110hhrg34989",
+        "CHRG-110hhrg38056",
+        "CHRG-110hhrg39915",
+        "CHRG-110hhrg40303",
+        "CHRG-110hhrg41839",
+        "CHRG-110hhrg41902",
+        "CHRG-110shrg40283"
+    ],
+    "111": [
+        "CHRG-111hhrg47612",
+        "CHRG-111hhrg47722",
+        "CHRG-111shrg24699",
+        "CHRG-111shrg56914",
+        "CHRG-111shrg58003"
+    ],
+    "112": [
+        "CHRG-112hhrg66924",
+        "CHRG-112shrg74295",
+        "CHRG-112shrg75092",
+        "CHRG-112shrg75828",
+        "CHRG-112shrg77458",
+        "CHRG-112shrg78095",
+        "CHRG-112shrg78677"
+    ],
+    "113": [
+        "CHRG-113shrg98185"
+    ],
+    "114": [
+        "CHRG-114hhrg97194",
+        "CHRG-114shrg22579",
+        "CHRG-114shrg99832"
+    ],
+    "115": [
+        "CHRG-115hhrg32368",
+        "CHRG-115shrg26520",
+        "CHRG-115shrg28283",
+        "CHRG-115shrg32378",
+        "CHRG-115shrg32517"
+    ],
+    "116": [
+        "CHRG-116shrg42119"
+    ],
+    "117": [
+        "CHRG-117shrg46519"
+    ]
+}{
+    "105": [
+        "CHRG-105hhrg48615",
+        "CHRG-105hhrg50377"
+    ],
+    "106": [
+        "CHRG-106hhrg56355"
+    ],
+    "107": [],
+    "108": [
+        "CHRG-108hhrg86340",
+        "CHRG-108hhrg87137",
+        "CHRG-108hhrg90627",
+        "CHRG-108hhrg91690",
+        "CHRG-108hhrg92756",
+        "CHRG-108hhrg93214",
+        "CHRG-108hhrg93759",
+        "CHRG-108jhrg88501",
+        "CHRG-108shrg23827",
+        "CHRG-108shrg91745"
+    ],
+    "109": [
+        "CHRG-109hhrg24150",
+        "CHRG-109hhrg24525",
+        "CHRG-109hhrg27255"
+    ],
+    "110": [
+        "CHRG-110hhrg34012",
+        "CHRG-110hhrg34989",
+        "CHRG-110hhrg38056",
+        "CHRG-110hhrg39915",
+        "CHRG-110hhrg40303",
+        "CHRG-110hhrg41839",
+        "CHRG-110hhrg41902",
+        "CHRG-110shrg40283"
+    ],
+    "111": [
+        "CHRG-111hhrg47612",
+        "CHRG-111hhrg47722",
+        "CHRG-111shrg24699",
+        "CHRG-111shrg56914",
+        "CHRG-111shrg58003"
+    ],
+    "112": [
+        "CHRG-112hhrg66924",
+        "CHRG-112shrg74295",
+        "CHRG-112shrg75092",
+        "CHRG-112shrg75828",
+        "CHRG-112shrg77458",
+        "CHRG-112shrg78095",
+        "CHRG-112shrg78677"
+    ],
+    "113": [
+        "CHRG-113shrg98185"
+    ],
+    "114": [
+        "CHRG-114hhrg97194",
+        "CHRG-114shrg22579",
+        "CHRG-114shrg99832"
+    ],
+    "115": [
+        "CHRG-115hhrg32368",
+        "CHRG-115shrg26520",
+        "CHRG-115shrg28283",
+        "CHRG-115shrg32378",
+        "CHRG-115shrg32517"
+    ],
+    "116": [
+        "CHRG-116shrg42119"
+    ],
+    "117": [
+        "CHRG-117shrg46519"
+    ]
+}{
+    "105": [
+        "CHRG-105hhrg48615",
+        "CHRG-105hhrg50377"
+    ],
+    "106": [
+        "CHRG-106hhrg56355"
+    ],
+    "107": [],
+    "108": [
+        "CHRG-108hhrg86340",
+        "CHRG-108hhrg87137",
+        "CHRG-108hhrg90627",
+        "CHRG-108hhrg91690",
+        "CHRG-108hhrg92756",
+        "CHRG-108hhrg93214",
+        "CHRG-108hhrg93759",
+        "CHRG-108jhrg88501",
+        "CHRG-108shrg23827",
+        "CHRG-108shrg91745"
+    ],
+    "109": [
+        "CHRG-109hhrg24150",
+        "CHRG-109hhrg24525",
+        "CHRG-109hhrg27255"
+    ],
+    "110": [
+        "CHRG-110hhrg34012",
+        "CHRG-110hhrg34989",
+        "CHRG-110hhrg38056",
+        "CHRG-110hhrg39915",
+        "CHRG-110hhrg40303",
+        "CHRG-110hhrg41839",
+        "CHRG-110hhrg41902",
+        "CHRG-110shrg40283"
+    ],
+    "111": [
+        "CHRG-111hhrg47612",
+        "CHRG-111hhrg47722",
+        "CHRG-111shrg24699",
+        "CHRG-111shrg56914",
+        "CHRG-111shrg58003"
+    ],
+    "112": [
+        "CHRG-112hhrg66924",
+        "CHRG-112shrg74295",
+        "CHRG-112shrg75092",
+        "CHRG-112shrg75828",
+        "CHRG-112shrg77458",
+        "CHRG-112shrg78095",
+        "CHRG-112shrg78677"
+    ],
+    "113": [
+        "CHRG-113shrg98185"
+    ],
+    "114": [
+        "CHRG-114hhrg97194",
+        "CHRG-114shrg22579",
+        "CHRG-114shrg99832"
+    ],
+    "115": [
+        "CHRG-115hhrg32368",
+        "CHRG-115shrg26520",
+        "CHRG-115shrg28283",
+        "CHRG-115shrg32378",
+        "CHRG-115shrg32517"
+    ],
+    "116": [
+        "CHRG-116shrg42119"
+    ],
+    "117": [
+        "CHRG-117shrg46519"
+    ]
+}{
+    "105": [
+        "CHRG-105hhrg48615",
+        "CHRG-105hhrg50377"
+    ],
+    "106": [
+        "CHRG-106hhrg56355"
+    ],
+    "107": [],
+    "108": [
+        "CHRG-108hhrg86340",
+        "CHRG-108hhrg87137",
+        "CHRG-108hhrg90627",
+        "CHRG-108hhrg91690",
+        "CHRG-108hhrg92756",
+        "CHRG-108hhrg93214",
+        "CHRG-108hhrg93759",
+        "CHRG-108jhrg88501",
+        "CHRG-108shrg23827",
+        "CHRG-108shrg91745"
+    ],
+    "109": [
+        "CHRG-109hhrg24150",
+        "CHRG-109hhrg24525",
+        "CHRG-109hhrg27255"
+    ],
+    "110": [
+        "CHRG-110hhrg34012",
+        "CHRG-110hhrg34989",
+        "CHRG-110hhrg38056",
+        "CHRG-110hhrg39915",
+        "CHRG-110hhrg40303",
+        "CHRG-110hhrg41839",
+        "CHRG-110hhrg41902",
+        "CHRG-110shrg40283"
+    ],
+    "111": [
+        "CHRG-111hhrg47612",
+        "CHRG-111hhrg47722",
+        "CHRG-111shrg24699",
+        "CHRG-111shrg56914",
+        "CHRG-111shrg58003"
+    ],
+    "112": [
+        "CHRG-112hhrg66924",
+        "CHRG-112shrg74295",
+        "CHRG-112shrg75092",
+        "CHRG-112shrg75828",
+        "CHRG-112shrg77458",
+        "CHRG-112shrg78095",
+        "CHRG-112shrg78677"
+    ],
+    "113": [
+        "CHRG-113shrg98185"
+    ],
+    "114": [
+        "CHRG-114hhrg97194",
+        "CHRG-114shrg22579",
+        "CHRG-114shrg99832"
+    ],
+    "115": [
+        "CHRG-115hhrg32368",
+        "CHRG-115shrg26520",
+        "CHRG-115shrg28283",
+        "CHRG-115shrg32378",
+        "CHRG-115shrg32517"
+    ],
+    "116": [
+        "CHRG-116shrg42119"
+    ],
+    "117": [
+        "CHRG-117shrg46519"
+    ]
+}
